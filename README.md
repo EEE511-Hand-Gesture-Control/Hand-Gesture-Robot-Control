@@ -39,4 +39,11 @@ This project was our team's final project for EEE 511: Artificial Neural Computa
 **TODO**
 
 ## Steps for connecting to the Robot
+1. Connect ethernet cable or wireless router to the ethernet port on the Robot's control box.
+2. Connect the other end of the ethernet cable to the computer or connect the computer's wireless network to the router transmitting from the control box.
+3. Place the robot into Remote Mode. 
+- 3.1) This mode option is found under the Robot's settings in the upper right corner of the teach pendant.
+4. To verify the connection, you can ping the robot from the command window. You can also use the socketTest application to verify the live connection with the robot. 
+5. Once the robot is connected, it's ready to run the script.
+
 
