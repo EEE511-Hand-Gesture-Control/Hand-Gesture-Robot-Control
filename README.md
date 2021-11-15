@@ -46,5 +46,5 @@ This project was our team's final project for EEE 511: Artificial Neural Computa
 4. To verify the connection, you can ping the robot from the command window. You can also use the socketTest application to verify the live connection with the robot. 
 5. Once the robot is connected, it's ready to run the script.
 
-
+## Dataset
 Dataset can be found: https://drive.google.com/file/d/1tn2k9fgBaPjvQgBO5YIVZOwub-MLljan/view?usp=sharing
