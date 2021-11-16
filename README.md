@@ -1,6 +1,6 @@
 # Hand-Gesture-Robot-Control
 
-This project was our team's final project for EEE 511: Artificial Neural Computation. The purpose of this project was to create a CNN that could be used to control a UR10e robotic arm. This README outlines the steps necessary to run the project on your own platform with the following **Requirements**:
+This project was our team's final project for EEE 511: Artificial Neural Computation. The purpose of this project was to create a CNN that could be used to control a UR10e robotic arm. This README outlines the steps necessary to run the project on your own platform with the following:
 
 ## Requirements
 - System Requirements:
