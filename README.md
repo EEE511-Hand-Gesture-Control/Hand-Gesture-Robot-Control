@@ -36,7 +36,17 @@ This project was our team's final project for EEE 511: Artificial Neural Computa
 
 ## Explanation for each Script
 
-**TODO**
+### 511Model.py
+This script contains everything necessary for dataset preprocessing, model setup, model training, and model evalution. The script will conclude by generating a confusion matrix and saving the model in a directory called 'saved_model'.
+
+### ImageDataGenerator.py
+This script was used to generate the team's dataset. The script will guide the user through taking the images and going through the gestures. It will also perform all of the augmentations. After completion, the generated dataset will be stored locally.
+
+### ImagePredictor.py
+This script contains the preprocessing function for the preprocessing needed to take live images from the webcam and process them into a format that can be fed to the neural network.
+
+### robotControlFromImageRec.py
+This script contains the implementation of the project. It establishes a socket connection with a robot arm at a certain IP address. It then pulls images from a webcam, processes them, passes them into the model, and then outputs the respective action to the robot arm.
 
 ## Steps for connecting to the Robot
 1. Connect ethernet cable or wireless router to the ethernet port on the Robot's control box.
