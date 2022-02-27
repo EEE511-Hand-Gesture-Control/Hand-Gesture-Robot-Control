@@ -1,5 +1,6 @@
-# Hand-Gesture-Robot-Control
+# Control for UR10e with Hand Gesture Recognition ![SHIELD](https://img.shields.io/badge/Project%20Status%3A-Complete-green?style=for-the-badge) ![PYTHON](https://camo.githubusercontent.com/3df944c2b99f86f1361df72285183e890f11c52d36dfcd3c2844c6823c823fc1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d507974686f6e26636f6c6f723d333737364142266c6f676f3d507974686f6e266c6f676f436f6c6f723d464646464646266c6162656c3d) ![ROBOTICS](https://camo.githubusercontent.com/b8e2732eda54a502cb34a56c1ea83747134ce98754e6c49a3177cd89f411bc97/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d526f626f742b4672616d65776f726b26636f6c6f723d303030303030266c6f676f3d526f626f742b4672616d65776f726b266c6f676f436f6c6f723d464646464646266c6162656c3d) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+## About
 This project was our team's final project for EEE 511: Artificial Neural Computation. The purpose of this project was to create a CNN that could be used to control a UR10e robotic arm. This README outlines the steps necessary to run the project on your own platform with the following:
 
 ## Requirements
